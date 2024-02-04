@@ -1,5 +1,6 @@
 ---
 title: "Lab 03 - Nobel laureates"
+Author: Malique Kujabi
 output: 
   tufte::tufte_html:
     css: ../lab.css
